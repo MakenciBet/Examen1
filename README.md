@@ -2,4 +2,4 @@
 
 ## "Fundamentos de la web"
 
-## trabajé con HTML, CSS y JavaScript,
+## trabajé con HTML, CSS y JavaScript
